@@ -12,16 +12,16 @@ section:
 degrees:
 - name: Ph.D in Quantum Cryptography
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2018-2020
   institution:
-    name: ABC University of Technology
+    name: Politeknik Seberang Perai
     url: "#"
     logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: CGPA
-    achieved: 3.6
+    achieved: 3.68
     outOf: 4
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
